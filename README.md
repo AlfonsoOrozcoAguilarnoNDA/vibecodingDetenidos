@@ -29,6 +29,7 @@ Elegimos **cPanel** porque es el estándar de la industria desde hace 25 años y
 Análisis y contexto más detallados en
 
 https://vibecodingmexico.com/vibe-coding-un-dashboard-detenido/
+Ahi vienen los enlaces para verlos en vivo. 
 
 Ganador Copilot segunda opción real Gemini. Grok merece premio aparte por solidez de manejo de errores y proactivo.
 
