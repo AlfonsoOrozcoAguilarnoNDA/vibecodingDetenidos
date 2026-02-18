@@ -38,7 +38,7 @@ Ganador Copilot segunda opción real Gemini. Grok merece premio aparte por solid
 | **🛡️ Gemini** | **9.5** | Ingeniero Senior | **Estructural:** El más Completo. No hzio cosas que otros sí |
 | **💎 Cohere** | **9.5** | Senior Remoto | **Sobrio:** Muy legible,solido y es siempre arma secreta. Demasiado poco ambicioso |
 | **💼 Claude** | **9.5** | Consultor Senior | **Elegancia:** Calidad indiscutible de presentación. Dos pequeños errores |
-| **📉 Grok** | **9.4** | Becario Flojo | **Impredecible:** Resultado excelente pero no se ve ultima fila. Hizo masde lo que se pidió|
+| **📉 Grok** | **9.4** | Junior autodidacta | **Impredecible:** Resultado excelente pero no se ve ultima fila. Hizo masde lo que se pidió|
 
 * **`copilotdetenidos.php`**
 * **`geminidetenidos.php`**
