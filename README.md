@@ -48,7 +48,7 @@ Ganador Copilot segunda opción real Gemini. Grok merece premio aparte por solid
 * **`grokdetenidos.php`**: La origina
 * **`grokdetenidos2.php`**: La mejorada con mismo problema
 * **`grokdetenidos3.php`**: Esta sin datos de prueba los tuve que pegar
-* **`grokdetenidos4.php`**: La mejor 
+* **`grokdetenidos4.php`**: La mejorada ? Sigueexactamente igual. Ay dios.
 
 Hay un análisis mas amplio en el link. Noté además unas características raras de CARACTER de grok, como junior independiente aunque
 mas bien de personalidad. Hizo algo similar Gemini tendré que hacer pruebas externas. Grok se puso modo "barrio" usando palabras como
