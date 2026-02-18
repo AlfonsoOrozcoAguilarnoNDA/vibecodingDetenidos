@@ -23,10 +23,38 @@ Elegimos **cPanel** porque es el estándar de la industria desde hace 25 años y
 
 ---
 
+
 ## 📂 Guía de Archivos (Los Especímenes)
 
-* **`detenidosgemini.php`**: Larespuesta de Gemini
+Análisis y contexto más detallados en
 
+https://vibecodingmexico.com/vibe-coding-un-dashboard-detenido/
+
+Ganador Copilot segunda opción real Gemini. Grok merece premio aparte por solidez de manejo de errores y proactivo.
+
+| Candidato | Calificación | Perfil Profesional | Factor de "Activo Fijo" |
+| :--- | :---: | :--- | :--- |
+| **🏆 Copilot** | **9.6** | Becario Flojo | **Premium:** Hizo buen trabajo y se ve muy bien. |
+| **🛡️ Gemini** | **9.5** | Ingeniero Senior | **Estructural:** El más Completo. No hzio cosas que otros sí |
+| **💎 Cohere** | **9.5** | Senior Remoto | **Sobrio:** Muy legible,solido y es siempre arma secreta. Demasiado poco ambicioso |
+| **💼 Claude** | **9.5** | Consultor Senior | **Elegancia:** Calidad indiscutible de presentación. Dos pequeños errores |
+| **📉 Grok** | **9.4** | Becario Flojo | **Impredecible:** Resultado excelente pero no se ve ultima fila. Hizo masde lo que se pidió|
+
+* **`copilotdetenidos.php`**
+* **`geminidetenidos.php`**
+* **`coheredetenidos.php`**
+* **`claudedetenidos.php`**
+* **`grokdetenidos.php`**: La origina
+* **`grokdetenidos2.php`**: La mejorada con mismo problema
+* **`grokdetenidos3.php`**: Esta sin datos de prueba los tuve que pegar
+* **`grokdetenidos4.php`**: La mejor 
+
+Hay un análisis mas amplio en el link. Noté además unas características raras de CARACTER de grok, como junior independiente aunque
+mas bien de personalidad. Hizo algo similar Gemini tendré que hacer pruebas externas. Grok se puso modo "barrio" usando palabras como
+"Carnal" y gemini confundió un contexto y empezó a  ser unaespecie decapatazde recursos humanos. Voy aahacer una neuvasección para
+evaluar cosas fuera de calidad o generación de código, sino calidad ...humana en toma de decisiones.
+
+Si te interesa leee Vibecodingmexico.com  los viernes.
 
 ---
 ## 📂 Contexto
